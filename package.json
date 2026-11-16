@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix hamzadolo run dev",
+    "build": "npm --prefix hamzadolo run build",
+    "lint": "npm --prefix hamzadolo run lint",
+    "preview": "npm --prefix hamzadolo run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "tailwindcss": "^4.3.5"
+  }
+}
